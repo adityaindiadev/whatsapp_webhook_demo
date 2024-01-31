@@ -1,0 +1,3 @@
+https://www.mysmsmantra.com/blog/how-to-send-pdf-and-media-file-via-whatsapp-business-api.html
+https://developers.facebook.com/docs/whatsapp/api/messages/media/
+https://developers.facebook.com/docs/whatsapp/cloud-api/guides/send-message-templates/#media-based
